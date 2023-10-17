@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-10-11T00:10:53.292Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="enqmj8i1UCwAJEeCihxP" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T13:06:13.433Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="IA9IPzNxplxxwTZbZe4x" version="22.0.4" type="github">
   <diagram name="Page-1" id="Tj7jY9R-gdu9pBP85zCR">
-    <mxGraphModel dx="1247" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="1033" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="omYBjM-jxcOMAB9h6YCW-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="omYBjM-jxcOMAB9h6YCW-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="650" y="130" width="180" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="omYBjM-jxcOMAB9h6YCW-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="omYBjM-jxcOMAB9h6YCW-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="440" y="280" width="180" height="450" as="geometry" />
         </mxCell>
         <mxCell id="0NX1sgVQurQ3wN9T8UED-1" value="Home" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -42,7 +42,7 @@
         <mxCell id="z6am-YFUpRGnM1cpMQOg-26" value="Addressing :" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=1;whiteSpace=wrap;html=1;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="z6am-YFUpRGnM1cpMQOg-3" vertex="1">
           <mxGeometry y="150" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z6am-YFUpRGnM1cpMQOg-27" value="$SCR_GRP[1].$MCG_POS_X&lt;br&gt;(last letter to be access data is needed for)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=1;whiteSpace=wrap;html=1;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="z6am-YFUpRGnM1cpMQOg-3" vertex="1">
+        <mxCell id="z6am-YFUpRGnM1cpMQOg-27" value="$SCR_GRP[1].$MCH_POS_X&lt;br&gt;(last letter to be access data is needed for)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=1;whiteSpace=wrap;html=1;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="z6am-YFUpRGnM1cpMQOg-3" vertex="1">
           <mxGeometry y="180" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z6am-YFUpRGnM1cpMQOg-12" value="Register List (copy for each axis)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -57,28 +57,28 @@
         <mxCell id="z6am-YFUpRGnM1cpMQOg-15" value="132" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="z6am-YFUpRGnM1cpMQOg-12" vertex="1">
           <mxGeometry y="100" width="300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="omYBjM-jxcOMAB9h6YCW-32" value="133" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="z6am-YFUpRGnM1cpMQOg-12">
+        <mxCell id="omYBjM-jxcOMAB9h6YCW-32" value="133" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="z6am-YFUpRGnM1cpMQOg-12" vertex="1">
           <mxGeometry y="130" width="300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="omYBjM-jxcOMAB9h6YCW-33" value="unit position &lt;br&gt;(actual location of calibration sensor from base)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="z6am-YFUpRGnM1cpMQOg-12">
+        <mxCell id="omYBjM-jxcOMAB9h6YCW-33" value="unit position &lt;br&gt;(actual location of calibration sensor from base)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="z6am-YFUpRGnM1cpMQOg-12" vertex="1">
           <mxGeometry y="160" width="300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="omYBjM-jxcOMAB9h6YCW-34" value="unit position &lt;br&gt;(actual location of calibration sensor from base)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="z6am-YFUpRGnM1cpMQOg-12">
+        <mxCell id="omYBjM-jxcOMAB9h6YCW-34" value="unit position &lt;br&gt;(actual location of calibration sensor from base)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="z6am-YFUpRGnM1cpMQOg-12" vertex="1">
           <mxGeometry y="190" width="300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="omYBjM-jxcOMAB9h6YCW-35" value="unit position &lt;br&gt;(actual location of calibration sensor from base)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="z6am-YFUpRGnM1cpMQOg-12">
+        <mxCell id="omYBjM-jxcOMAB9h6YCW-35" value="unit position &lt;br&gt;(actual location of calibration sensor from base)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="z6am-YFUpRGnM1cpMQOg-12" vertex="1">
           <mxGeometry y="220" width="300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="omYBjM-jxcOMAB9h6YCW-36" value="unit position &lt;br&gt;(actual location of calibration sensor from base)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="z6am-YFUpRGnM1cpMQOg-12">
+        <mxCell id="omYBjM-jxcOMAB9h6YCW-36" value="unit position &lt;br&gt;(actual location of calibration sensor from base)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="z6am-YFUpRGnM1cpMQOg-12" vertex="1">
           <mxGeometry y="250" width="300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="omYBjM-jxcOMAB9h6YCW-37" value="unit position &lt;br&gt;(actual location of calibration sensor from base)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="z6am-YFUpRGnM1cpMQOg-12">
+        <mxCell id="omYBjM-jxcOMAB9h6YCW-37" value="unit position &lt;br&gt;(actual location of calibration sensor from base)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="z6am-YFUpRGnM1cpMQOg-12" vertex="1">
           <mxGeometry y="280" width="300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="omYBjM-jxcOMAB9h6YCW-38" value="unit position &lt;br&gt;(actual location of calibration sensor from base)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="z6am-YFUpRGnM1cpMQOg-12">
+        <mxCell id="omYBjM-jxcOMAB9h6YCW-38" value="unit position &lt;br&gt;(actual location of calibration sensor from base)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="z6am-YFUpRGnM1cpMQOg-12" vertex="1">
           <mxGeometry y="310" width="300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="omYBjM-jxcOMAB9h6YCW-39" value="unit position &lt;br&gt;(actual location of calibration sensor from base)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="z6am-YFUpRGnM1cpMQOg-12">
+        <mxCell id="omYBjM-jxcOMAB9h6YCW-39" value="unit position &lt;br&gt;(actual location of calibration sensor from base)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="z6am-YFUpRGnM1cpMQOg-12" vertex="1">
           <mxGeometry y="340" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z6am-YFUpRGnM1cpMQOg-13" value="100&lt;br&gt;(live x value at moment cal sensor activates" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="z6am-YFUpRGnM1cpMQOg-12" vertex="1">
@@ -155,13 +155,13 @@
         <mxCell id="z6am-YFUpRGnM1cpMQOg-56" value="Set utool to effect changes" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="470" y="813" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="omYBjM-jxcOMAB9h6YCW-1" value="Get Position at front of sensor" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="omYBjM-jxcOMAB9h6YCW-1" value="Get Position at front of sensor" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="680" y="217" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="omYBjM-jxcOMAB9h6YCW-2" value="Get postition at back of sensor" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="omYBjM-jxcOMAB9h6YCW-2" value="Get postition at back of sensor" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="680" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="omYBjM-jxcOMAB9h6YCW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="omYBjM-jxcOMAB9h6YCW-3" target="z6am-YFUpRGnM1cpMQOg-38">
+        <mxCell id="omYBjM-jxcOMAB9h6YCW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="omYBjM-jxcOMAB9h6YCW-3" target="z6am-YFUpRGnM1cpMQOg-38" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="950" y="408" />
@@ -169,7 +169,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="omYBjM-jxcOMAB9h6YCW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="omYBjM-jxcOMAB9h6YCW-10" target="z6am-YFUpRGnM1cpMQOg-46">
+        <mxCell id="omYBjM-jxcOMAB9h6YCW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="omYBjM-jxcOMAB9h6YCW-10" target="z6am-YFUpRGnM1cpMQOg-46" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="650" y="620" as="targetPoint" />
             <Array as="points">
@@ -178,16 +178,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="omYBjM-jxcOMAB9h6YCW-3" value="Calculate Center of tool" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="omYBjM-jxcOMAB9h6YCW-3" value="Calculate Center of tool" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="680" y="378" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="omYBjM-jxcOMAB9h6YCW-6" value="Optional IO cal program" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="omYBjM-jxcOMAB9h6YCW-6" value="Optional IO cal program" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="omYBjM-jxcOMAB9h6YCW-10" value="Calculate laser to tool diff&lt;br&gt;erence" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="omYBjM-jxcOMAB9h6YCW-10" value="Calculate laser to tool diff&lt;br&gt;erence" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="680" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="omYBjM-jxcOMAB9h6YCW-17" value="Set Utool to refresh values" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="omYBjM-jxcOMAB9h6YCW-17" value="Set Utool to refresh values" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="470" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
